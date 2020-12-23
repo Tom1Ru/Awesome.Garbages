@@ -7,8 +7,15 @@ Atsuki Tomita
 
 
 Life Gmaeです
+
+
 ぱぱぱーっと模様が表示されます
+
+
 01と02があります
+
+
+
 かわいいね、ふふふ、となります
 
 
@@ -22,13 +29,21 @@ python3 life_game_01.py
 
 
 Python3とitaライブラリを使用しています
+
+
 環境によっては動作しない場合があります
+
+
 主の環境:
+
+
 - ProductName: Mac OS X
 - ProductVersion: 10.15.7
 - BuildVersion: 19H2
 
 [Pythonによるプログラミング入門](http://www.utp.or.jp/book/b470446.html)を参考に作成されました
+
+
 ---
 
 ##### [Pythonによるプログラミング入門](http://www.utp.or.jp/book/b470446.html)
