@@ -1,4 +1,4 @@
-# Toutch.Notes
+# life game
 
 Atsuki Tomita
 2020-12-23
